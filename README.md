@@ -1,7 +1,3 @@
-Here is a **more attractive and modern GitHub Profile README** with badges, stats, and a clean structure. You can copy-paste this into your **README.md** for your GitHub profile.
-
----
-
 # 👋 Hi, I'm Vanshika Gautam
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Student;Aspiring%20Data%20Scientist;Python%20Developer;Machine%20Learning%20Enthusiast&center=true&width=500&height=45">

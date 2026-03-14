@@ -92,5 +92,5 @@ Developed an **intelligent chatbot** using NLP for automated responses.
 
 
 
-It will make your **GitHub look like a professional developer portfolio**.
+
 

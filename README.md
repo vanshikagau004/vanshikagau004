@@ -70,15 +70,6 @@ Developed an **intelligent chatbot** using NLP for automated responses.
 🏅 Commonwealth Bank – Introduction to Data Science Job Simulation (Forage)
 
 ---
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME\&theme=tokyonight)

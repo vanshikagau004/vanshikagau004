@@ -57,10 +57,6 @@ I enjoy building **real-world AI projects**, learning new technologies, and impr
 
 Machine learning model that classifies emails as **Spam or Not Spam** using NLP techniques.
 
-### 🎬 Movie Recommendation System
-
-Recommends movies based on **user preferences and similarity algorithms**.
-
 ### 🤖 Chatbot Application
 
 Developed an **intelligent chatbot** using NLP for automated responses.

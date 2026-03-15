@@ -1,8 +1,7 @@
+# 👋 Hi, I'm Vanshika Gautam
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vanshikagau004&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p> 
-# 👋 Hi, I'm Vanshika Gautam
-
+</p>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Student;Aspiring%20Data%20Scientist;Python%20Developer;Machine%20Learning%20Enthusiast&center=true&width=500&height=45">
 
 🎓 **B.Tech Student (Artificial Intelligence & Machine Learning)**
